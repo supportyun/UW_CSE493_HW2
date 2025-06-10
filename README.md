@@ -1,5 +1,8 @@
+## Report
 
-## 🚀 How to Run the Code
+Our results are summarized in `report.pdf`.
+
+## How to Run the Code
 
 All scripts are listed alphabetically below with a brief explanation and example command.
 
