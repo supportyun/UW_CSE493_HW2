@@ -1,0 +1,7 @@
+Operation: /
+Modulus p = 97
+Total datapoints: 9312
+Train split: 2328 examples
+Test split: 6984 examples
+Format: 'a / b = c' where c = a / b mod p
+(Note: modular inverse is used for division)

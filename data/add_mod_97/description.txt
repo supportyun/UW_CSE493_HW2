@@ -1,0 +1,6 @@
+Operation: +
+Modulus p = 97
+Total datapoints: 9409
+Train split: 2352 examples
+Test split: 7057 examples
+Format: 'a + b = c' where c = a + b mod p
